@@ -10,7 +10,7 @@
 <h3><a href="index.html">Home</a></h3>
 <hr>
 <div class="w3-container w3-blue-grey w3-opacity w3-left-align">
-    <h1>Список еды</h1>
+    <h1>Список еды по дням</h1>
 </div>
 
 <table class="w3-table-all">
